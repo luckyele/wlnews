@@ -66,7 +66,7 @@ def grasp_all_options(url, driver):
 def grasp_all_a(url, driver):
     assert(driver)
     driver.get(url)   
-    time.sleep(10)
+    time.sleep(15)
     html = driver.page_source
     print(html)
     a_tags = driver.find_elements(By.TAG_NAME, "a")  
@@ -95,9 +95,9 @@ if __name__ == "__main__":
         # "http://www.anhuify.net/",
         # "https://www.ahctic.cn/",
         # "https://www.ahsmsg.com/",
-        # "https://wlj.hefei.gov.cn/",
+        "https://wlj.hefei.gov.cn/",
         # "http://wlt.huaibei.gov.cn/",
-        "https://wlt.bozhou.gov.cn/",
+        # "https://wlt.bozhou.gov.cn/",
         # "http://ct.ahsz.gov.cn/",
         # "http://wtlj.bengbu.gov.cn/",
         # "http://wlt.fy.gov.cn/",
@@ -114,7 +114,7 @@ if __name__ == "__main__":
         # "https://ct.ah.gov.cn",
     ]
     for url in urls:
-        if 'bozhou' in url:
+        if 'hefei' in url:
             driver = ready_to_grasp2()
         else:
             driver = ready_to_grasp()
