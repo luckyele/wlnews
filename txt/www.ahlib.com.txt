@@ -1,0 +1,6 @@
+	http://www.ahlib.com/english/index.html
+	https://opac.ahlib.com/opac/reader/login
+	https://www.ahlib.com/wca.html
+	https://www.ycfw.ahlib.com/menu
+	https://beian.miit.gov.cn/#/Integrated/index
+	http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=34011102001149
