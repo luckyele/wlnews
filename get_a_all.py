@@ -14,24 +14,6 @@ def ready_to_grasp():
         print("Please install webdriver first.\n")
         exit(-1)
     
-    # for selenium 3.*
-    # options = {
-    #     "browserName": "MicrosoftEdge",
-    #     "version": "",
-    #     "platform": "WINDOWS",
-    #     "ms:edgeOptions": {
-    #         "extensions": [], "args": ["--headless",
-    #         "--no-sandbox",
-    #         "--disable-gpu",
-    #         "--disable-infobars",
-    #         "--disable-notifications",
-    #         "--disable-web-security",
-    #         "--ignore-certificate-errors",
-    #         "--disable-popup-blocking",
-    #         "--disable-blink-features=AutomationControlled"]
-    #         }
-    # }
-
     options = EdgeOptions()
     options.use_chromium = True
     # options.add_argument('headless')
@@ -41,9 +23,6 @@ def ready_to_grasp():
     options.add_argument("disable-blink-features=AutomationControlled")
     
     driver = Edge(executable_path=path, options=options)
-    # driver.execute_cdp_cmd('Page.addScriptToEvaluateOnNewDocumnet', {
-    #     'source':'Object.definePropery(navigator, "webdriver", {get: () => undefined})'
-    #     })
     driver.execute_cdp_cmd('Network.setUserAgentOverride', \
         {"userAgent": 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) \
             AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 \
@@ -52,13 +31,29 @@ def ready_to_grasp():
 
     return driver
 
+def ready_to_grasp2():
+    path = r"d:\\webdriver\\MicrosoftWebDriver.exe"
+    if os.path.exists(path):
+        sys.path.append(path)
+    else:
+        print("Please install webdriver first.\n")
+        exit(-1)
+        
+    os.popen('"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --remote-debugging-port=9222')
+    options = EdgeOptions()
+    options.add_experimental_option('debuggerAddress','127.0.0.1:9222')
+    driver = Edge(executable_path=path, options=options) 
+    return driver
+
+
 def get_filename(url):
     filename = url.split("//")[1]
     return filename
 
 def grasp_all_options(url, driver):
     assert(driver)
-    driver.get(url)   
+    driver.get(url)
+      
     option_tags = driver.find_elements(By.TAG_NAME, "option")  
     filename = get_filename(url).rstrip('/')
     with open("./txt/" + filename + ".txt", 'w', encoding='utf-8') as f:  
@@ -71,6 +66,9 @@ def grasp_all_options(url, driver):
 def grasp_all_a(url, driver):
     assert(driver)
     driver.get(url)   
+    time.sleep(10)
+    html = driver.page_source
+    print(html)
     a_tags = driver.find_elements(By.TAG_NAME, "a")  
     # print(a_tags)
 
@@ -116,7 +114,10 @@ if __name__ == "__main__":
         # "https://ct.ah.gov.cn",
     ]
     for url in urls:
-        driver = ready_to_grasp()
+        if 'bozhou' in url:
+            driver = ready_to_grasp2()
+        else:
+            driver = ready_to_grasp()
         # grasp_all_options(url, driver)
         grasp_all_a(url, driver)
         time.sleep(10)

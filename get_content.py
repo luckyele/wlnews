@@ -31,7 +31,7 @@ from msedge.selenium_tools import Edge
 import requests
 from bs4 import BeautifulSoup
 import re
-import os, sys
+import os, sys, time
 
 
 def ready_to_grasp():
@@ -41,26 +41,21 @@ def ready_to_grasp():
     else:
         print("Please install webdriver first.\n")
         exit(-1)
-
+    
+    os.popen('"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --remote-debugging-port=9222')
     options = EdgeOptions()
-    options.use_chromium = True 
-    options.add_argument('headless') 
-    options.add_argument("disable-blink-features=AutomationControlled")
-    # options.add_experimental_option('debuggerAddress','127.0.0.1:9222')
-    # options.add_experimental_option('excludeSwitches', ['enable-automation']) 
-    # options.add_argument('disable-blink-features=AutomationControlled')
-    # options.add_experimental_option('detach', True)
+    options.add_experimental_option('debuggerAddress','127.0.0.1:9222')
     driver = Edge(executable_path=path, options=options) 
-    driver.execute_cdp_cmd("Network.setExtraHTTPHeaders", \
-        {"headers": {
-            "sec-ch-ua-platform": "Windows",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)\
-                 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0"}})
     return driver
 
-url = "http://wlj.luan.gov.cn/"
+url = "http://wlt.bozhou.gov.cn/"
 driver = ready_to_grasp()
-driver.get(url)   
-a_tag = driver.find_element(By.TAG_NAME, "body")  
-print(a_tag.text)
+driver.get(url) 
+# script = "Object.defineProperty(navigator,'webdriver',{get: ()=> false,});"
+# driver.execute_script(script)  
+# a_tag = driver.find_element(By.TAG_NAME, "a")  
+# print(a_tag.text)
+time.sleep(5)
+html = driver.page_source
+print(html)
 driver.quit()
