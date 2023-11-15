@@ -2,6 +2,8 @@
 滁州市人民政府	http://www.chuzhou.gov.cn/
 安徽省文化和旅游厅	https://ct.ah.gov.cn/
 安徽省广播电视局	http://gdj.ah.gov.cn/
+	https://www.chuzhou.gov.cn/mc/memberCenter/login?redirectUrl=https%3A%2F%2Fct.chuzhou.gov.cn%2F
+	https://www.chuzhou.gov.cn/mc/memberCenter/register
 微博	https://www.weibo.com/ahczly?is_all=1
 	https://ct.chuzhou.gov.cn/index.html
 	https://ct.chuzhou.gov.cn/index.html
@@ -80,11 +82,11 @@
 做大做强主导产业 加快构建现代化产业体系	https://www.ah.gov.cn/zwyw/jryw/564277561.html
 强化深度融入长三角一体化发展桥头堡作用 为全面建设现代化美好安徽作出更大贡献	https://www.ah.gov.cn/zwyw/jryw/564277551.html
 	https://www.chuzhou.gov.cn/zxzx/jryw/index.html
-为了群众 依靠群众 服务群众	https://www.chuzhou.gov.cn/zxzx/jryw/1111060644.html
+市委常委会会议暨市委主题教育领导小组第三次会议召开	https://www.chuzhou.gov.cn/zxzx/jryw/1111062116.html
+许继伟在滁州新型化工企业家早餐会上强调	https://www.chuzhou.gov.cn/zxzx/jryw/1111062128.html
+许继伟在市委理论学习中心组学习会上强调	https://www.chuzhou.gov.cn/zxzx/jryw/1111062127.html
+市政府第25次党组会议召开	https://www.chuzhou.gov.cn/zxzx/jryw/1111062137.html
 许继伟吴劲会见博西家电高层一行	https://www.chuzhou.gov.cn/zxzx/jryw/1111060636.html
-吴劲实地调研保交楼工作时强调	https://www.chuzhou.gov.cn/zxzx/jryw/1111060643.html
-我市组团参加二0二三安徽秸秆暨畜禽养殖废弃物综合利用产业博览会	https://www.chuzhou.gov.cn/zxzx/jryw/1111058799.html
-市第三次归侨侨眷代表大会隆重召开	https://www.chuzhou.gov.cn/zxzx/jryw/1111058797.html
 	https://www.chuzhou.gov.cn/public/column/2681527?type=4&action=list
 	https://www.chuzhou.gov.cn/public/column/2681527?type=4&catId=2667884&action=list
 	https://www.chuzhou.gov.cn/public/column/2681527?type=4&catId=161733868&action=list
@@ -164,6 +166,11 @@
 我要建议	https://www.chuzhou.gov.cn/site/tpl/161747403?messageBoardType=do_suggest
 	https://www.chuzhou.gov.cn/site/tpl/161747410?handle_unit_name=%E5%B8%82%E6%96%87%E5%8C%96%E5%92%8C%E6%97%85%E6%B8%B8%E5%B1%80
 	https://www.chuzhou.gov.cn/public/column/2681527?type=4&catId=8550430&action=list
+邀请音乐诗人李健来滁州开演唱会	https://www.chuzhou.gov.cn/site/tpl/161747412?id=1711564708346867713&handle_unit_name=%E5%B8%82%E6%96%87%E5%8C%96%E5%92%8C%E6%97%85%E6%B8%B8%E5%B1%80
+赞扬滁州文旅局	https://www.chuzhou.gov.cn/site/tpl/161747412?id=424&handle_unit_name=%E5%B8%82%E6%96%87%E5%8C%96%E5%92%8C%E6%97%85%E6%B8%B8%E5%B1%80
+请问社会保障卡能否代替读者证作为身份凭证借阅图书？	https://www.chuzhou.gov.cn/site/tpl/161747412?id=313&handle_unit_name=%E5%B8%82%E6%96%87%E5%8C%96%E5%92%8C%E6%97%85%E6%B8%B8%E5%B1%80
+滁州市区城市阅读空间地址在哪？	https://www.chuzhou.gov.cn/site/tpl/161747412?id=305&handle_unit_name=%E5%B8%82%E6%96%87%E5%8C%96%E5%92%8C%E6%97%85%E6%B8%B8%E5%B1%80
+旅游咨询	https://www.chuzhou.gov.cn/site/tpl/161747412?id=314&handle_unit_name=%E5%B8%82%E6%96%87%E5%8C%96%E5%92%8C%E6%97%85%E6%B8%B8%E5%B1%80
 关于意见反馈情况说明	https://www.chuzhou.gov.cn/public/2681527/1111044427.html
 关于未开展意见征集的说明	https://www.chuzhou.gov.cn/public/2681527/1111044413.html
 关于《滁州市自驾游招徕专项奖励办法（修订草案）》的意见采纳情况	https://www.chuzhou.gov.cn/public/2681527/1110502853.html

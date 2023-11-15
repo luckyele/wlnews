@@ -89,32 +89,32 @@
 	https://www.ahswhg.cn/logicSourceId,310993+categoryId,687@live-detail.html
 	http://www.ahswhg.cn/celebrate-twenty-index.html
 	https://www.ahswhg.cn/news-notice.html?category=681
+	https://www.ahswhg.cn/resourceId,311807+category,678@new-detail.html
+	https://www.ahswhg.cn/resourceId,311807+category,678@new-detail.html
 	https://www.ahswhg.cn/resourceId,311744+category,678@new-detail.html
 	https://www.ahswhg.cn/resourceId,311744+category,678@new-detail.html
 	https://www.ahswhg.cn/resourceId,311644+category,678@new-detail.html
 	https://www.ahswhg.cn/resourceId,311644+category,678@new-detail.html
 	https://www.ahswhg.cn/resourceId,311623+category,678@new-detail.html
 	https://www.ahswhg.cn/resourceId,311623+category,678@new-detail.html
-	https://www.ahswhg.cn/resourceId,311612+category,678@new-detail.html
-	https://www.ahswhg.cn/resourceId,311612+category,678@new-detail.html
 	https://www.ahswhg.cn/news-point.html?category=678
+	https://www.ahswhg.cn/resourceId,311792+category,679@new-detail.html
+	https://www.ahswhg.cn/resourceId,311792+category,679@new-detail.html
 	https://www.ahswhg.cn/resourceId,311756+category,679@new-detail.html
 	https://www.ahswhg.cn/resourceId,311756+category,679@new-detail.html
 	https://www.ahswhg.cn/resourceId,311598+category,679@new-detail.html
 	https://www.ahswhg.cn/resourceId,311598+category,679@new-detail.html
 	https://www.ahswhg.cn/resourceId,311584+category,679@new-detail.html
 	https://www.ahswhg.cn/resourceId,311584+category,679@new-detail.html
-	https://www.ahswhg.cn/resourceId,311568+category,679@new-detail.html
-	https://www.ahswhg.cn/resourceId,311568+category,679@new-detail.html
 	https://www.ahswhg.cn/news-trend.html?category=679
-	https://www.ahswhg.cn/resourceId,311749+category,680@new-detail.html
-	https://www.ahswhg.cn/resourceId,311749+category,680@new-detail.html
-	https://www.ahswhg.cn/resourceId,311748+category,680@new-detail.html
-	https://www.ahswhg.cn/resourceId,311748+category,680@new-detail.html
-	https://www.ahswhg.cn/resourceId,311747+category,680@new-detail.html
-	https://www.ahswhg.cn/resourceId,311747+category,680@new-detail.html
-	https://www.ahswhg.cn/resourceId,311742+category,680@new-detail.html
-	https://www.ahswhg.cn/resourceId,311742+category,680@new-detail.html
+	https://www.ahswhg.cn/resourceId,311793+category,680@new-detail.html
+	https://www.ahswhg.cn/resourceId,311793+category,680@new-detail.html
+	https://www.ahswhg.cn/resourceId,311784+category,680@new-detail.html
+	https://www.ahswhg.cn/resourceId,311784+category,680@new-detail.html
+	https://www.ahswhg.cn/resourceId,311782+category,680@new-detail.html
+	https://www.ahswhg.cn/resourceId,311782+category,680@new-detail.html
+	https://www.ahswhg.cn/resourceId,311781+category,680@new-detail.html
+	https://www.ahswhg.cn/resourceId,311781+category,680@new-detail.html
 	https://www.ahswhg.cn/news-feeds.html?category=680
 	https://www.ahswhg.cn/new-look-live.html
 	https://www.ahswhg.cn/logicSourceId,311682+categoryId,687@live-detail.html

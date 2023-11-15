@@ -1,3 +1,4 @@
+	http://center.luan.gov.cn:50188/mc/memberCenter/login?redirectUrl=https%3A%2F%2Fwlj.luan.gov.cn%2F
 	http://60.173.176.86:28080/oa/login
 	https://www.luan.gov.cn/bzzx/bbxt/index.html
 六安市文化和旅游局	https://wlj.luan.gov.cn/index.html
@@ -25,14 +26,15 @@
 	https://wlj.luan.gov.cn/zwzx/xqcz/index.html
 	https://wlj.luan.gov.cn/zwzx/tzgg/index.html
 	https://wlj.luan.gov.cn/zwzx/zyzz/index.html
+六安民宿亮相2023安徽民宿大会	https://wlj.luan.gov.cn/zwzx/wlyw/5265488.html
+六安市图书馆加速融入长三角“阅读圈”	https://wlj.luan.gov.cn/zwzx/wlyw/5265194.html
 以赛为媒 六安市牵手黄冈、信阳、安庆打造大别山区域文旅合作联盟	https://wlj.luan.gov.cn/zwzx/wlyw/5265114.html
 “你充电·我买单”新能源汽车驾游大别山风景道暨裕安红色研学一号线旅游线路启动仪式成功举行	https://wlj.luan.gov.cn/zwzx/wlyw/5265112.html
 2023鄂豫皖三省四市首届大别山民歌邀请赛成功举办	https://wlj.luan.gov.cn/zwzx/wlyw/5265100.html
 六安非遗亮相第六届中国非物质文化遗产传统技艺大展	https://wlj.luan.gov.cn/zwzx/wlyw/5265011.html
 市文旅局党组召开理论学习中心组（扩大）学习会	https://wlj.luan.gov.cn/zwzx/wlyw/5264908.html
 市文旅局开展 “学思践悟新思想 凝心铸魂强党性”主题党日活动	https://wlj.luan.gov.cn/zwzx/wlyw/5264853.html
-魏武调研大别山（六安）悠然南山国家级旅游度假区创建情况	https://wlj.luan.gov.cn/zwzx/wlyw/5263134.html
-市文旅局召开全市文化和旅游市场监管工作会	https://wlj.luan.gov.cn/zwzx/wlyw/5262641.html
+舒城县获鄂豫皖三省四市首届大别山民歌邀请赛荣获银奖和最佳创编奖	https://wlj.luan.gov.cn/zwzx/xqcz/5264668.html
 舒城县开展非法卫星电视广播地面接收设施专项整治行动	https://wlj.luan.gov.cn/zwzx/xqcz/5264667.html
 舒城县多措并举推动全域旅游高质量发展	https://wlj.luan.gov.cn/zwzx/xqcz/5264590.html
 叶集区：文化振兴助力乡村发展	https://wlj.luan.gov.cn/zwzx/xqcz/5264391.html
@@ -40,7 +42,6 @@
 叶集区深入推进非法卫星地面接收设施整治工作	https://wlj.luan.gov.cn/zwzx/xqcz/5264214.html
 舒城县建设高品质旅游强县动员大会召开	https://wlj.luan.gov.cn/zwzx/xqcz/5263780.html
 金寨：按下民宿产业发展加速键	https://wlj.luan.gov.cn/zwzx/xqcz/5263652.html
-叶集区多点发力提升“文化软实力”	https://wlj.luan.gov.cn/zwzx/xqcz/5263526.html
 关于六安市第七批市级非物质文化遗产代表性项目名录推荐项目名单的公示	https://wlj.luan.gov.cn/zwzx/tzgg/5261546.html
 关于拟聘任第二届六安市文化旅游推广大使（志愿者）名单的公示	https://wlj.luan.gov.cn/zwzx/tzgg/5260231.html
 2023年中秋国庆假期文明旅游倡议书	https://wlj.luan.gov.cn/zwzx/tzgg/5253515.html
