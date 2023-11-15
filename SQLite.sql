@@ -1,2 +1,2 @@
 -- SQLite
-select * from webpages where length(title)>10;
+select * from webpages where link LIKE '%hefei%';
